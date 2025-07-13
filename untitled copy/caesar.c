@@ -1,4 +1,3 @@
-// caesar.c
 #include <stddef.h>
 
 void caesar_encrypt(char* data, int len, int key) {
